@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asiosample", "..\driver\asiosample\asiosample\asiosample.vcxproj", "{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hostsample", "..\host\sample\hostsample.vcxproj", "{12062309-C9A4-4ED8-AAA9-241424CD4C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}.Debug|Win32.Build.0 = Debug|Win32
+		{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}.Release|Win32.ActiveCfg = Release|Win32
+		{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}.Release|Win32.Build.0 = Release|Win32
+		{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}.Template|Win32.ActiveCfg = Release|Win32
+		{75E48B2C-A7FE-4489-B2F5-ABA421F62A0F}.Template|Win32.Build.0 = Release|Win32
+		{12062309-C9A4-4ED8-AAA9-241424CD4C88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12062309-C9A4-4ED8-AAA9-241424CD4C88}.Debug|Win32.Build.0 = Debug|Win32
+		{12062309-C9A4-4ED8-AAA9-241424CD4C88}.Release|Win32.ActiveCfg = Release|Win32
+		{12062309-C9A4-4ED8-AAA9-241424CD4C88}.Release|Win32.Build.0 = Release|Win32
+		{12062309-C9A4-4ED8-AAA9-241424CD4C88}.Template|Win32.ActiveCfg = Template|Win32
+		{12062309-C9A4-4ED8-AAA9-241424CD4C88}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
